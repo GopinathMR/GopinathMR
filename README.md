@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GopinathMR
-- 👀 I current work in building distributed systems, AWS, Spark, Kafka
+- 👀 I current work in building distributed systems using AWS, Kafka, Spark
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Rust open source projects
 - 📫 How to reach me : @mr_gopinath on twitter
