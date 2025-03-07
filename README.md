@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GopinathMR
-- 👀 I current work in building distributed systems using AWS, Kafka, Spark
+- 👀 I'm building AI Agent Applications
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Rust open source projects
-- 📫 How to reach me : @mr_gopinath on twitter
+- 📫 How to reach me : @mr_gopinath on twitter(X)
 
 <!---
 GopinathMR/GopinathMR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
